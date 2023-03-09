@@ -1,0 +1,11 @@
+C1orf112: encoding protein Chromosome 1 open reading frame 112
+C1orf127: encoding protein Chromosome 1 open reading frame 127
+C1orf27: encoding protein Chromosome 1 open reading frame 27
+C1orf38: encoding protein Chromosome 1 open reading frame 38
+CCDC181: encoding protein Coiled-coil domain-containing protein 181
+DENN1B: hypothesized to be related to asthma
+FHAD1: encoding protein Forkhead-associated domain containing protein 1
+LOC100132287: uncharacterized protein
+LRRIQ3: encoding protein Leucine-rich repeats and IQ motif containing 3
+Shisa family member 4: encoding protein Shisa family member 4
+TINAGL1: encoding protein Tubulointerstitial nephritis antigen-like
